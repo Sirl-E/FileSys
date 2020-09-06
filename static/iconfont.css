@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 1906966 */
+  src: url('https://at.alicdn.com/t/font_1906966_p3so4bpnevh.eot');
+  src: url('https://at.alicdn.com/t/font_1906966_p3so4bpnevh.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_1906966_p3so4bpnevh.woff2') format('woff2'),
+  url('https://at.alicdn.com/t/font_1906966_p3so4bpnevh.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_1906966_p3so4bpnevh.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_1906966_p3so4bpnevh.svg#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-wenjian:before {
+  content: "\e62b";
+}
+
+.icon-shuben:before {
+  content: "\e6ca";
+}
+
+.icon-huo:before {
+  content: "\e664";
+}
+
+.icon-dengdai:before {
+  content: "\e61f";
+}
+
+.icon-bofang:before {
+  content: "\e60c";
+}
+
+.icon-guanbi-copy:before {
+  content: "\e642";
+}
+
+.icon-dengdai1:before {
+  content: "\e614";
+}
+
+.icon-shanchu:before {
+  content: "\e615";
+}
+
+.icon-tianjia:before {
+  content: "\e65b";
+}
+

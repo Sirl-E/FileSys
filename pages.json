@@ -1,0 +1,39 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {}
+
+		},
+		{
+			"path": "pages/message/message",
+			"style": {
+
+			}
+		}
+	    ,{
+            "path" : "pages/animate/animate",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTitleText": "暨阳学院文件检索系统",
+		"navigationBarBackgroundColor": "#fff",
+		"navigationBarTextStyle": "black",
+		"backgroundColor": "#FFFFFF",
+		"enablePullDownRefresh": "true",
+		"backgroundColorBottom":"#999999"
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#3cc51f",
+		"borderStyle": "black",
+		"backgroundColor": "#fff",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"text": "组件"
+		}, {
+			"pagePath": "pages/message/message",
+			"text": "声明"
+		}]
+	}
+}
