@@ -14,6 +14,10 @@
             "path" : "pages/animate/animate",
             "style" : {}
         }
+        ,{
+            "path" : "pages/test/test",
+            "style" : {}
+        }
     ],
 	"globalStyle": {
 		"navigationBarTitleText": "暨阳学院文件检索系统",
