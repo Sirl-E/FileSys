@@ -1,6 +1,6 @@
 <template>
 	<view>
-		
+		<view>enheng </view>
 	</view>
 </template>
 
